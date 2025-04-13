@@ -1,0 +1,7 @@
+.gitignore
+_translations
+logs
+.venv
+.env
+ollama
+__pycache__

@@ -1,0 +1,93 @@
+{
+  "place_names": {
+    "Village": "마을",
+    "Town": "마을"
+  },
+  "character_names": {
+    "Toshiko": "토시코",
+    "Kaito": "카이토",
+    "Mai": "마이"
+  },
+  "custom_terms": {
+    "army": "군대",
+    "ball": "공",
+    "rise": "오르다",
+    "undead": "언데드"    
+  },
+  "object_names": {
+    "relic": "유물",
+    "key": "열쇠",
+    "music": "음악",
+    "ears": "귀"
+  },
+  "verbs": {
+    "could": "~할 수 있었다",
+    "help": "도와주다",
+    "ask": "물어보다",
+    "examine": "살펴보다"
+  },
+  "objects": {
+    "characters": "캐릭터들",
+    "the ball of light": "그 빛의 공",
+    "daggers": "칼날 같은 눈빛",
+    "toadstool": "버섯",
+    "i-ingredients": "약초",
+    "potions": "약초",
+    "harm": "피해를"
+  },
+  "adjectives": {
+    "fictitious": "허구의",
+    "light": "빛",
+    "uncalled": "부르지 않은",
+    "startled": "깜짝 놀란",
+    "glaring": "노려보다"
+  },
+  "adverbs": {
+    "an instant": "순간",
+    "nervously": "긴장한 채",
+    "simply": "그저",
+    "peacefully": "평화롭게",
+    "both of you": "양쪽을",
+    "can't": "못 한다",
+    "just": "그냥",
+    "Please": "부디"
+  },
+  "pronouns": {
+    "she": "그녀는",
+    "that": "그",
+    "You": "너는",
+    "we": "저희",
+    "us": "저희를"
+  },
+  "conjunctions": {
+    "causing": "초래하다",
+    "and": "그리고",
+    "before": "전에",
+    "when": "때에",
+    "But": "하지만"
+  },
+  "nouns": {
+    "girl": "소녀",
+    "woman": "여자",
+    "sort": "종류",
+    "trick": "속임수"
+  },
+  "prepositions": {
+    "to": "으로",
+    "towards": "향하여",
+    "with": "로",
+    "of": "의",
+    "from": "부터"
+  },
+  "interjections": {
+    "that!": "그렇게!",
+    "Oh": "오",
+    "Don’t": "하지 마라",
+    "aaaahhh...": "아아하하…"
+  },
+  "idioms": {
+    "W-We": "우-우리는",
+    "a sly wink": "능글거리며 눈치를 주다",    
+    "don't know": "잘 모르겠어요"
+  }
+}
